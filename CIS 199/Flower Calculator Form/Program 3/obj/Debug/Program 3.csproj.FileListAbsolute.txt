@@ -1,0 +1,11 @@
+C:\Users\watso\source\repos\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\watso\source\repos\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\watso\source\repos\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program_3.GardenForm.resources
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\watso\source\repos\Program 3\Program 3\obj\Debug\Program 3.pdb

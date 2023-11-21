@@ -1,0 +1,11 @@
+C:\Users\watso\source\repos\Program 2\Program 2\bin\Debug\Program 2.exe.config
+C:\Users\watso\source\repos\Program 2\Program 2\bin\Debug\Program 2.exe
+C:\Users\watso\source\repos\Program 2\Program 2\bin\Debug\Program 2.pdb
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program 2.csproj.AssemblyReference.cache
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program_2.Program2HotelCalculator.resources
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program_2.Properties.Resources.resources
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program 2.csproj.GenerateResource.cache
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program 2.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program 2.exe
+C:\Users\watso\source\repos\Program 2\Program 2\obj\Debug\Program 2.pdb
